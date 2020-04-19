@@ -3,7 +3,7 @@
   <groupId>org.maxgamer</groupId>
   <artifactId>QuickShop</artifactId>
   <versioning>
-    <release>4.0</release>
+    <release>4.0.1</release>
     <versions>
       <version>Reremake 3.1.0-CITEST</version>
       <version>3.1.0-TEST</version>
@@ -47,7 +47,8 @@
       <version>3.1.4.31</version>
       <version>3.2</version>
       <version>4.0</version>
+      <version>4.0.1</version>
     </versions>
-    <lastUpdated>20200419084659</lastUpdated>
+    <lastUpdated>20200419133858</lastUpdated>
   </versioning>
 </metadata>
